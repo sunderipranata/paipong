@@ -19,8 +19,8 @@ User Manual
 https://github.com/sunderipranata/paipong/files/2530740/Paipong.User.Manual.pdf
 
 
-If you figure it out, it should look more or less like this
 # Demo
+If you figure it out, it should look more or less like this
 https://www.youtube.com/watch?v=0YD6MtTZSoY
 
 # Contributing
