@@ -4,7 +4,6 @@ The super short source code for the ping pong collecting robot (Paipong)
 # Dependency
 Install OpenCV2 from this link
 https://github.com/opencv/opencv or https://opencv.org/releases.html
-Find out how yourself because I forget how I did that.
 
 # Running
 Run all `project.cpp`, Voila! .... you need to build the robot first!
